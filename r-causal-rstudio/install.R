@@ -7,4 +7,4 @@ pkgs <- c(
 install.packages(pkgs)
 
 library(devtools)
-install_github('bd2kccd/r-causal@development')
+install_github('bd2kccd/r-causal')
